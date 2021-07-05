@@ -1,0 +1,140 @@
+.body {
+  margin: 0 0 0 0;
+  font-family: montserrat;
+}
+
+
+.logo {
+  height: 80px;
+  padding-left: 119px;
+}
+
+.logo-image {
+   height: 80px;
+}
+
+.container2 {
+  background-image: url("../images/middlecontainer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffc288;
+  height: 800px;
+}
+
+
+.Name {
+  font-size: 80px;
+  text-shadow: 4px 4px 20px black;
+  text-align: center;
+  color: white;
+  font-family: montserrat;
+  font-weight: bolder;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 300px;
+  padding-bottom: 0;
+}
+
+.intro {
+  color: white;
+  text-align: center;
+  text-shadow: 3px 3px 20px black;
+  font-size: 30px;
+  font-family: montserrat;
+  font-weight: normal;
+  margin-top: 0;
+
+}
+
+.container {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+#design_value {
+background-image: url(../images/bgcontainer.jpg);
+}
+
+.design1 {
+  border-radius: 35px;
+  height: 600px;
+}
+
+.descrip1 {
+font-family: 'Montserrat' , sans-serif;
+font-weight: 900  ;
+font-size: 30% ;
+font-size: 90px;
+margin-top: 20px;
+}
+
+#aboutme {
+  background-color: black;
+}
+
+.about_me {
+  padding-top: 250px;
+  color: white;
+  font-size: 56px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.slideshow_design {
+  width: 100%;
+  height: 250px;
+}
+
+.contact {
+  padding-top:80px;
+  height: 800px;
+  background-image: url(../images/bgcontainer2.png);
+}
+
+.contact-container {
+  width: 50%;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  background-color: white ;
+}
+
+.name {
+  padding-bottom: 10px;
+}
+
+.box {
+  background-color: #d3d3d3;
+}
+
+.conimg {
+  margin-top: 90px;
+height: 600px;
+}
+
+.rounded {
+    border-radius: 1.25rem !important;
+}
+.end {
+  color: white;
+  border: 2px;
+  border-style: solid;
+  border-color: white;
+}
+
+.submit_btn {
+  margin-top: 10px;
+  background-color: black;
+
+}
+.contactme {
+  font-weight: bold;
+text-align: center;
+padding-bottom: 10px;
+}
+
+.form_con {
+  margin-left: 0;
+  margin-right: 0;
+}
